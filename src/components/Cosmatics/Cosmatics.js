@@ -4,12 +4,12 @@ import Cosmetic from '../Cosmetic/Cosmetic';
 const Cosmatics = () => {
     const cosmetics = [
         {
-            id: 1,
+            id: 101,
             name: 'Alta',
             price: 100,
         },
         {
-            id: 2,
+            id: 201,
             name: 'Palish',
             price: 200,
         },
